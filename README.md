@@ -1,4 +1,4 @@
-# 💫 About Me
+# 💫 &nbsp; About Me
 
 > <br/> TODO: WIP <br/><br/>
 >
@@ -8,7 +8,7 @@
 
 <br />
 
-# 🌐 Socials
+# 🌐 &nbsp; Socials
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/Rockin4Life33)
 &nbsp;
@@ -31,7 +31,7 @@
 
 <br />
 
-# 💻 Tech Stack
+# 💻 &nbsp; Tech Stack
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white)
 &nbsp;
@@ -113,7 +113,7 @@
 
 <br />
 
-# 📊 GitHub Stats
+# 📊 &nbsp; GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Rockin4Life33&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rockin4Life33&theme=chartreuse-dark&hide_border=false)<br/>
@@ -121,7 +121,7 @@
 
 <br />
 
-## 🏆 GitHub Trophies
+## 🏆 &nbsp;GitHub Trophies
 
 <br/>
 
@@ -131,9 +131,7 @@
 
 ---
 
-<br />
-
-### ✍️ &nbsp; Random Dev Quote
+## ✍️ &nbsp;Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -141,7 +139,7 @@
 
 <br />
 
-## 💰 DONATE — Feel free to buy me a cup of coffee
+## 💰 &nbsp;DONATE — Feel free to buy me a cup of coffee
 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Rockin4Life33)
 
